@@ -1,0 +1,12 @@
+C:\Users\Dashk\Desktop\C#2.0\FileWatcherConsole\FileWatcherConsole\bin\Debug\FileWatcherConsole.exe.config
+C:\Users\Dashk\Desktop\C#2.0\FileWatcherConsole\FileWatcherConsole\bin\Debug\FileWatcherConsole.exe
+C:\Users\Dashk\Desktop\C#2.0\FileWatcherConsole\FileWatcherConsole\bin\Debug\FileWatcherConsole.pdb
+C:\Users\Dashk\Desktop\C#2.0\FileWatcherConsole\FileWatcherConsole\obj\Debug\FileWatcherConsole.csprojAssemblyReference.cache
+C:\Users\Dashk\Desktop\C#2.0\FileWatcherConsole\FileWatcherConsole\obj\Debug\FileWatcherConsole.exe
+C:\Users\Dashk\Desktop\C#2.0\FileWatcherConsole\FileWatcherConsole\obj\Debug\FileWatcherConsole.pdb
+D:\University\Kul\FileWatcherConsole\FileWatcherConsole\bin\Debug\FileWatcherConsole.exe.config
+D:\University\Kul\FileWatcherConsole\FileWatcherConsole\bin\Debug\FileWatcherConsole.exe
+D:\University\Kul\FileWatcherConsole\FileWatcherConsole\bin\Debug\FileWatcherConsole.pdb
+D:\University\Kul\FileWatcherConsole\FileWatcherConsole\obj\Debug\FileWatcherConsole.csprojAssemblyReference.cache
+D:\University\Kul\FileWatcherConsole\FileWatcherConsole\obj\Debug\FileWatcherConsole.exe
+D:\University\Kul\FileWatcherConsole\FileWatcherConsole\obj\Debug\FileWatcherConsole.pdb
