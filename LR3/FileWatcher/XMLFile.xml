@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <SourcePath>D:\3семестр\Шарпы\Lab3\SourceDirectory</SourcePath>
+  <TargetPath>D:\3семестр\Шарпы\Lab3\TargetDirectory</TargetPath>
+  <LogFilePath>D:\3семестр\Шарпы\Lab3\LogFile.txt</LogFilePath>
+  <NeedToEncrypt>true</NeedToEncrypt>
+  <ArchiveOptions>
+    <NeedToArchive>true</NeedToArchive>
+    <NeedToCompress>true</NeedToCompress>
+    <Level>Optimal</Level>
+  </ArchiveOptions>
+</settings>
