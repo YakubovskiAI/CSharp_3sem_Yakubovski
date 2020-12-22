@@ -1,0 +1,11 @@
+{
+  "SourceParth": "D:\\3סולוסענ\\״אנןû\\Lab3\\\\SourceDirectory",
+  "TargetParth": "D:\\3סולוסענ\\״אנןû\\Lab3\\\\TargetDirectory",
+  "LogFileParth": "D:\\3סולוסענ\\״אנןû\\Lab3\\\\LogFile.txt",
+  "NeedToEncrypt": true,
+  "ArchiveOptions": {
+    "NeedToArchive": true,
+    "NeedToCompress": false,
+    "Level": 0
+  }
+}

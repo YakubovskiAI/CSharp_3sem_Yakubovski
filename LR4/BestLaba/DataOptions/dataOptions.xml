@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<DataOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConnectionString>Data Source = ASUS\SQLEXPRESS; Initial Catalog = AdventureWorks; Integrated Security = True</ConnectionString>
+  <SourcePath>D:\3семестр\Шарпы\Lab4\SourceDirectory</SourcePath>
+  <TargetFolder>D:\3семестр\Шарпы\Lab4\TargetDirectory</TargetFolder>
+  <LoggerConnectionString>Data Source = ASUS\SQLEXPRESS; Initial Catalog = ApplicationInsights; Integrated Security = True</LoggerConnectionString>
+</DataOptions>

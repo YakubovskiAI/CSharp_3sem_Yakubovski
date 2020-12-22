@@ -1,0 +1,2 @@
+Service was started at 12.12.2020 22:18:24
+Service was stopped at 12.12.2020 22:19:49

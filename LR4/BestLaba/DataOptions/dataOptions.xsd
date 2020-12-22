@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
+  <xsd:element name="DataOptions">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="ConnectionString" type="xsd:string" />
+        <xsd:element name="SourcePath" type="xsd:string" />
+        <xsd:element name="TargetFolder" type="xsd:string" />
+        <xsd:element name="LoggerConnectionString" type="xsd:string" />
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+</xs:schema>

@@ -1,0 +1,6 @@
+﻿{
+  "ConnectionString": "Data Source = ASUS\\SQLEXPRESS;Initial Catalog = AdventureWorks;Integrated Security = True",
+  "LoggerConnectionString": "Data Source = ASUS\\SQLEXPRESS;Initial Catalog = ApplicationInsights;Integrated Security = True",
+  "SourcePath": "D:\\3семестр\\Шарпы\\Lab4\\SourceDirectory",
+  "TargetFolder": "D:\\3семестр\\Шарпы\\Lab4\\TargetDirectory"
+}
